@@ -1,4 +1,4 @@
-//@RAMAA-GNNZ
+//@AzissImutt
 
 //𝗢𝗣𝗘𝗡 𝗝𝗔𝗦𝗔
 //› Jasa install Website panel 
@@ -8,10 +8,10 @@
 //script
 
 //𝗠𝗘𝗡𝗬𝗘𝗗𝗜𝗔𝗞𝗔𝗡 
-//› Script bot Create panel v4 35k
-//› Script Bot Campuran 10k
-//› Script Save otomatis 10k
-//› Script bot create panel, fitur Deposit 55k
+//› Script bot Create panel v4 
+//› Script Bot Campuran 
+//› Script Save otomatis 
+//› Script bot create panel, fitur Deposit 
 // Sedia panel run bot
 
 //[ Untuk Script yang saya jual, ini buatan saya sendiri,
@@ -19,7 +19,7 @@
 
 //______________________________
 //berminat Chat:
-//085791220179
+//08950848326xx
 
 
 "use strict";
@@ -556,43 +556,34 @@ break
 case 'ml':
 case 'mobilelegend':{
 let teq =`List Top Up *Mobile legend*
-14dm +(bonus13(+1)) 4k
-114dm +(bonus102+(12)) 28k
-285dm +(bonus260+(25)) 67k
 
-*Starlight member*
-344 dm+(312+32 bonus)) 200k
+*Starlight member* 145k
 
-*Star light plus*
-
-878 Diamond (781 + 97 Bonus) Rp 197k
-
+*Star light plus* 305k
 
 *List Top up Mobile legend*
 
 28 Diamond (26 + 2 Bonus) Rp 8k
 
-42 Diamond (38 + 4 Bonus) Rp 11k
+44 Diamond (40 + 4 Bonus) Rp 13k
 
-70 Diamond (64 + 6bonus) Rp18k
+56 Diamond (51 + 5 bonus) Rp17k
 
-86 Diamond (78 + 8 Bonus) Rp 20k
+86 Diamond (78 + 8 Bonus) Rp 22k
 
-172 Diamond (156 + 16 Bonus) Rp 40k
+172 Diamond (156 + 16 Bonus) Rp 42k
 
-257 Diamond (234 + 23 Bonus) Rp 60k
+257 Diamond (234 + 23 Bonus) Rp 62k
 
 429 Diamond (390 + 39 Bonus) Rp 100k
 
 514 Diamond (468 + 46 Bonus) Rp119k
 
-556 Diamonds (506 + 50 ) Rp 131k
-
 600 Diamond (546 + 54 Bonus) Rp138k
 
 706 Diamond (625 + 81 Bonus) Rp159k
 
-792 Diamond (703 + 89 Bonus) Rp178k
+878 Diamond (781 + 97 Bonus) Rp195k
 
 
 Untuk list lain nya bisa bertanya🥰
@@ -613,10 +604,10 @@ let teq =`*FREE FIRE*
 List Top up *free fire*
 70dm 10k
 140dm 20k
-210dm 30k
-355dm 50k
-720dm 100
-1075dm 150k
+210dm 28k
+355dm 45k
+720dm 86
+1000dm 120k
 List lain nya tinggal tanya🥰
 
 
